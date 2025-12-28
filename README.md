@@ -1,1 +1,1 @@
-# mnistDataset_ablationStudy
+# mnist Dataset Ablation Study
